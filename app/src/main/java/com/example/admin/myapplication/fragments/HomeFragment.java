@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import com.example.admin.myapplication.R;
 
 /**
- * Created by admin on 12/29/2015.
+ * Created by phoosaram on 12/30/2015.
  */
 public class HomeFragment extends Fragment {
     View view;
